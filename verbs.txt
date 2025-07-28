@@ -1,0 +1,19 @@
+run correr
+
+eat comer
+
+write escribir
+
+read leer
+
+speak hablar
+
+drink beber
+
+make hacer
+
+see ver
+
+play jugar
+
+learn aprender
